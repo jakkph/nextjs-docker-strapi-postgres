@@ -1,10 +1,9 @@
 # Fullstack Course: Next.js + Strapi + Docker + Postgres 
-## Day 1 : 22/08/2023
+<!-- ## Day 1 : 22/08/2023
 1. ติดตั้งเครื่องมือ เช่น Docker Desktop, Node.JS, VSCode, Git
 2. สร้าง Workshop โปรเจ็กต์ React 18 ด้วย Vite ทำงานบน Docker Container
 3. ใช้ React ออกแบบ UI ด้วย material UI(MUI))
-4.  สร้าง Workshop Rest API ด้วย Strapi CMS V.4
-
+4.  สร้าง Workshop Rest API ด้วย Strapi CMS V.4 -->
 ---
 [![VScode](./public/vscode.png)]()
 - [ ] 1. *ติดตั้งเครื่องมือ เช่น Docker Desktop, Node.JS, VSCode, Git*
